@@ -116,7 +116,6 @@ yargs.command({
         //Index fix
         if (Math.floor((argv.i)/20) > 0) {
             url += '&page=' + (Math.floor((argv.i + 1)/20)+1);
-            console.log(url);
         }
 
         //Request
