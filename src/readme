@@ -1,4 +1,0 @@
-
- npm start -- view --q="name" --v="rick" --q="status" --v="alive" --i=21
-
- npm start -- list --q="name" --v="rick" --q="status" --v="alive" --p=2
